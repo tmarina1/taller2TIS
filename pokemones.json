@@ -1,0 +1,10 @@
+{
+  "pokeneasInfo": {
+    "Id": 1,
+    "Nombre": "Tomas",
+    "Altura": "120",
+    "Habilidad": "Robar",
+    "Imagen": "imagen.png",
+    "Frasefilosófica": "Es mejor robar que trabajar"
+  }
+}
